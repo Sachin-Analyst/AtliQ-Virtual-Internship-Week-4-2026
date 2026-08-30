@@ -13,17 +13,17 @@ Welcome to my Shield Insurance Analysis project. This repository features a comp
 - [Visual Insights](#Visual-Insights) 
 - [License](#license)
 
-## Introduction
+# Introduction
 ---
 *Project Title:* Shield Insurance Analysis  
 *Created By:* [Sachin-Analyst]()  
 *Tools Used:* Power BI, DAX, Excel  
 *Focus Areas:* Revenue & Customer Growth Tracking, Policy Trend Analysis, Age Group & Sales Mode Segmentation
 ---
-## Project Description
+# Project Description
 This repository contains a specialized insurance analytics suite that provides a holistic view of Shield Insurance's policy and customer performance. Built across three dashboard pages — Overview, Sales Mode Analysis, and Age Group Analysis — it evaluates critical metrics including Total Revenue, Total Customers, daily Revenue & Customer Growth Rate, and Month-over-Month policy changes. The dashboard segments the customer base by age group and city, and includes a Revenue/Customer trend toggle alongside filters for sales mode, age group, city, month, and policy ID to make the analysis more efficient.
 ---
-## Folder Structure
+# Folder Structure
 - *Assets* - Icons, logos, and other visual assets used across the dashboard
 - *Dax-Measures* - Documentation of the DAX measures and calculation logic powering the dashboard (Total_Revenue, Total_customers, Policy_Count, Age Group segmentation, etc.)
 - *MockUp* - Early design mockups and layout iterations explored before finalizing the dashboard
