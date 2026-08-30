@@ -1,4 +1,4 @@
-# Style Guide — Shield Insurance Analysis
+# Style Guide Shield Insurance Analysis
 
 Color palette reference for the Shield Insurance dashboard.
 
