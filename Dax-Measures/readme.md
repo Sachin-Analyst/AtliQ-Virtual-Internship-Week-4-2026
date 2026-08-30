@@ -237,6 +237,23 @@ DIVIDE(
 ## Age Group / Policy Analysis
 
 ```dax
+Age = DATEDIFF(dim_customer[dob], TODAY(), YEAR)
+```
+
+```dax
+Age Group = 
+SWITCH(
+    TRUE(),
+    [Age] <= 24, "18-24",
+    [Age] <= 30, "25-30",
+    [Age] <= 40, "31-40",
+    [Age] <= 50, "41-50",
+    [Age] <= 65, "51-65",
+    "65+"
+)
+```
+
+```dax
 Is Preferred Policy = 
 VAR CurrentCellValue = [Total_customers]
 VAR MaxForAgeGroup =
