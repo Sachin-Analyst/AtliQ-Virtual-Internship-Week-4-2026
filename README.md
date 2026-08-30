@@ -82,7 +82,7 @@ Due to company policy, the raw datasets and the Power BI (.pbix) dashboard file 
 ## Visual Insights
 Video Presentation link - 
 
-Live Dashboard - 
+Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiYThlZTcwNDgtZmZkMi00MzE4LWE3MmYtNTBmZjc5MDEwOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=784dcf11898162baf5d8
 
 ----
 
