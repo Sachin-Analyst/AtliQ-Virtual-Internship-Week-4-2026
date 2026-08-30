@@ -1,8 +1,8 @@
 # Shield-Insurance-Analysis-2026
-
 Welcome to my Shield Insurance Analysis project. This repository features a comprehensive business intelligence solution designed to provide a holistic view of policy performance across Sales, Age Group, and City segments for AtliQ Shield Insurance. The project utilizes advanced Power BI-based dashboarding and data modeling to evaluate key metrics including Total Revenue, Total Customers, Growth Rate, and Policy Count to monitor progress, identify trends, and drive data-informed strategic decisions.
 
 ----
+
 ## Table of Contents
 - [Introduction](#introduction)  
 - [Project Description](#project-description)
@@ -13,17 +13,24 @@ Welcome to my Shield Insurance Analysis project. This repository features a comp
 - [Visual Insights](#Visual-Insights) 
 - [License](#license)
 
-# Introduction
+## Introduction
+
 ---
+
 *Project Title:* Shield Insurance Analysis  
 *Created By:* [Sachin-Analyst]()  
 *Tools Used:* Power BI, DAX, Excel  
 *Focus Areas:* Revenue & Customer Growth Tracking, Policy Trend Analysis, Age Group & Sales Mode Segmentation
+
 ---
-# Project Description
+
+## Project Description
+
 This repository contains a specialized insurance analytics suite that provides a holistic view of Shield Insurance's policy and customer performance. Built across three dashboard pages — Overview, Sales Mode Analysis, and Age Group Analysis — it evaluates critical metrics including Total Revenue, Total Customers, daily Revenue & Customer Growth Rate, and Month-over-Month policy changes. The dashboard segments the customer base by age group and city, and includes a Revenue/Customer trend toggle alongside filters for sales mode, age group, city, month, and policy ID to make the analysis more efficient.
+
 ---
-# Folder Structure
+
+## Folder Structure
 - *Assets* - Icons, logos, and other visual assets used across the dashboard
 - *Dax-Measures* - Documentation of the DAX measures and calculation logic powering the dashboard (Total_Revenue, Total_customers, Policy_Count, Age Group segmentation, etc.)
 - *MockUp* - Early design mockups and layout iterations explored before finalizing the dashboard
@@ -52,23 +59,31 @@ To explore or modify this Power BI project:
    - Navigate to the Report folder to view the finished dashboard in PDF format
 
 ----
+
 ## Usage
 ### What You Can Explore
 - Revenue & Customer Growth Trends
 - Policy Mix by Age Group and Sales Mode
 - Month-over-Month Policy Changes
 - City-Wise Performance
+
 ----
+
 ### Explore the `Dax-Measures`, `Report` and `Style-Guide` folders for breakdowns and the business logic behind the dashboard.
+
 ----
+
 # Note !
+
 Due to file size and workspace policies, the raw datasets and the Power BI (.pbix) dashboard file are not included in this repository.
 
 ----
+
 ## Visual Insights
 Video Presentation link - 
 Live Dashboard - 
 
 ----
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
