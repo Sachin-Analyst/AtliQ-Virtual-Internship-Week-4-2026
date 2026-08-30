@@ -74,7 +74,8 @@ To explore or modify this Power BI project:
 
 # Note !
 
-Due to file size and workspace policies, the raw datasets and the Power BI (.pbix) dashboard file are not included in this repository.
+Due to company policy, the raw datasets and the Power BI (.pbix) dashboard file cannot be shared in this repository. You're welcome to explore the full dashboard through the live link below.
+
 
 ----
 
