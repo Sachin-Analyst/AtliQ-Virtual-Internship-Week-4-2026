@@ -49,16 +49,12 @@ This repository contains a specialized insurance analytics suite that provides a
 
 ## Installation
 To explore or modify this Power BI project:
-1. *Clone the repository:*
-   ```bash
-   git clone <repo-url>
-   ```
-   - Open terminal and run the command
-2. *Download and Open Power BI Desktop*
+
+1. *Download and Open Power BI Desktop*
    - This analysis can be done using any recent version of Power BI
-3. *Explore Resources*
+2. *Explore Resources*
    - Open the Dax-Measures folder to review the logic behind key metrics like Total Revenue, Total Customers, and Age Group segmentation
-4. *Explore the Report*
+3. *Explore the Report*
    - Navigate to the Report folder to view the finished dashboard in PDF format
 
 ----
