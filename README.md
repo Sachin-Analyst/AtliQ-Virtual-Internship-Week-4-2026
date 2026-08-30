@@ -26,7 +26,10 @@ Welcome to my Shield Insurance Analysis project. This repository features a comp
 
 ## Project Description
 
-This repository contains a specialized insurance analytics suite that provides a holistic view of Shield Insurance's policy and customer performance. Built across three dashboard pages — Overview, Sales Mode Analysis, and Age Group Analysis — it evaluates critical metrics including Total Revenue, Total Customers, daily Revenue & Customer Growth Rate, and Month-over-Month policy changes. The dashboard segments the customer base by age group and city, and includes a Revenue/Customer trend toggle alongside filters for sales mode, age group, city, month, and policy ID to make the analysis more efficient.
+This repository contains a specialized insurance analytics suite that provides a holistic view of Shield Insurance's policy and customer performance. Built across three dashboard pages
+- Overview, Sales Mode Analysis, and Age Group Analysis 
+- It evaluates critical metrics including Total Revenue, Total Customers, daily Revenue & Customer Growth Rate, and Month-over-Month policy changes. 
+- The dashboard segments the customer base by age group and city, and includes a Revenue/Customer trend toggle alongside filters for sales mode, age group, city, month, and policy ID to make the analysis more efficient.
 
 ---
 
