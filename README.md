@@ -80,9 +80,9 @@ Due to company policy, the raw datasets and the Power BI (.pbix) dashboard file 
 ----
 
 ## Visual Insights
-Video Presentation link - 
+Video Presentation link - [Linkedin-Post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_shieldinsurance-codebasicsvirtualinternship-ugcPost-7499887489524912128-EDTI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
 
-Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiYThlZTcwNDgtZmZkMi00MzE4LWE3MmYtNTBmZjc5MDEwOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=784dcf11898162baf5d8
+Live Dashboard - [Power-BI-Service](https://app.powerbi.com/view?r=eyJrIjoiYThlZTcwNDgtZmZkMi00MzE4LWE3MmYtNTBmZjc5MDEwOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=784dcf11898162baf5d8)
 
 ----
 
